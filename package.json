@@ -8,6 +8,7 @@
   "scripts": {
     "build": "npm run clean && tsup src --format esm,cjs --dts",
     "clean": "rimraf dist",
+    "publish": "npm run build && beachball publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Xavier Drdak",
