@@ -1,0 +1,20 @@
+{
+  "name": "window-app-env",
+  "entries": [
+    {
+      "date": "Mon, 05 Jul 2021 17:12:25 GMT",
+      "tag": "window-app-env_v0.1.0",
+      "version": "0.1.0",
+      "comments": {
+        "minor": [
+          {
+            "comment": "Added create config function",
+            "author": "1198051+xdrdak@users.noreply.github.com",
+            "commit": "15d70432143a35579f11234a4ab697307cf161f1",
+            "package": "window-app-env"
+          }
+        ]
+      }
+    }
+  ]
+}
