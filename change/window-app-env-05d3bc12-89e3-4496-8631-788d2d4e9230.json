@@ -1,0 +1,7 @@
+{
+  "type": "minor",
+  "comment": "Added create config function",
+  "packageName": "window-app-env",
+  "email": "1198051+xdrdak@users.noreply.github.com",
+  "dependentChangeType": "patch"
+}
